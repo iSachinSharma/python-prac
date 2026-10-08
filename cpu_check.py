@@ -3,5 +3,5 @@ cpu = float(input("Enter the CPU: "))   # takie input from the user
 
 print(cpu)
 
-# if cpu > 50:
-#     print("Cpu over load")
+if cpu > 50:
+    print("Cpu over load")
