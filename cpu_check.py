@@ -5,6 +5,8 @@ print(cpu)
 
 if cpu > 50:
     print("Cpu over load")
+elif cpu > 20 and cpu < 50:
+    print("Send alart")    
 else:
     print("CPU is normal")
 
