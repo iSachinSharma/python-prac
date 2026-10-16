@@ -20,3 +20,5 @@ thisdict = {
   "model": "Mustang",
   "year": 1964
 }
+
+print(days_of_weeks[1])
